@@ -38,6 +38,6 @@ $("#fileName").on("change",function(){
 				$("#viewImg").attr("src",res.url);
 				$("#<%=fieldName %>").val(res.url);
 			}
-		});
+		}); 
 	})
 </script>
