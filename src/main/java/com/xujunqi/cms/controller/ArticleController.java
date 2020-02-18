@@ -64,7 +64,7 @@ public class ArticleController {
 	}
 	/**
 	 * @Title: getCateListByChannelId   
-	 * @Description: 根据频道Id查询分类列表  
+	 * @Description: 根据频道Id查询分类列表     
 	 * @param: @param channelId
 	 * @param: @return      
 	 * @return: JsonResult      

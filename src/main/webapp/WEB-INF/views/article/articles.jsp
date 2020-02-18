@@ -55,7 +55,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <p>你确认删除文章吗？</p>
+        <p>你确定删除文章吗?</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">取消</button>

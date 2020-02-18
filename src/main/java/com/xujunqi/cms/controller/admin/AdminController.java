@@ -67,7 +67,7 @@ public class AdminController {
 		}
 		/** 是否为管理员 **/
 		if(!"1".equals(userInfo.getRole())) {
-			return JsonResult.fail(10000,"只有官员才能登录");
+			return JsonResult.fail(10000,"只有管理员才能登录");
 		}
 		/** 判断密码是否正确 **/
 		String password = user.getPassword();
