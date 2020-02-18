@@ -110,13 +110,13 @@
 							src="http://p1.pstatp.com/large/pgc-image/4ab237b9682f4c0286da5c5e6823dc87"
 							style="height: 72px; width: 72px;" class="mr-3" alt="...">
 							<div class="media-body">
-								<h5 class="mt-0 mb-1">电子眼全面升级，新增5项功能！</h5>
+								<h5 class="mt-0 mb-1">You don’t bird me, I don’t bird you.</h5>
 							</div></li>
 						<li class="media"><img
 							src="http://p1.pstatp.com/large/pgc-image/4ab237b9682f4c0286da5c5e6823dc87"
 							style="height: 72px; width: 72px;" class="mr-3" alt="...">
 							<div class="media-body">
-								<h5 class="mt-0 mb-1">电子眼全面升级，新增5项功能！</h5>
+								<h5 class="mt-0 mb-1">美国断供中国超算芯片，我们突破封锁实现国产，美企却遭受重创</h5>
 							</div></li>
 					</ul>
 				</div>
