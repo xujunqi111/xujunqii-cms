@@ -32,6 +32,18 @@
 
 			</div>
 			<div class="col-6">
+				<!-- 搜索框 -->
+				<form action="/search" method="get">
+					<div class="input-group mb-3">
+						<input type="text" name="key" value="${key}" class="form-control"
+							placeholder="请输入要搜索的内容" aria-label="Recipient's username"
+							aria-describedby="button-addon2">
+						<div class="input-group-append">
+							<button class="btn btn-outline-secondary" id="button-addon2">搜索</button>
+						</div>
+					</div>
+				</form>
+			
 				<!-- 轮播图 -->
 				<c:if test="${channelId==null }">
 					<div id="carouselExampleControls" class="carousel slide"
